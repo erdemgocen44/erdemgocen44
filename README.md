@@ -1,9 +1,12 @@
-### Bonjour... 👋
+<img src="https://github.com/erdemgocen44/erdemgocen44/blob/main/1633014219490.jpg?raw=true">
 
-<!--
-**erdemgocen44/erdemgocen44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Bonjour 👋 Je m'appelle Erdem GÖÇEN </h1>
 
-Here are some ideas to get you started:
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
