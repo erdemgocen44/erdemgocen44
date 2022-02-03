@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemgocen44" alt="erdemgocen44" /></a> </p>
 
+- 🔥 **Je m'entraîne, me développe et me guide pour devenir une meilleure personne**
+
+- 👯 **J'aime gagner, mais cela me donne plus de tranquillité d'esprit pour aider l'équipe à gagner.**
+
+- ⚜️ **J'apprends tout le temps parce que ce n'est jamais assez pour moi.**
+
+- ➰ **Je me concentre sur la prise de décisions de haute qualité**
+
 - 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter**
 
 <h3 align="left">Connect with me:</h3>
