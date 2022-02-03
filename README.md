@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer/Java-Mobile<h/3>
   
 
-  <p align="justify"> J'ai toujours été un excellent résolveur de problèmes, un passionné de technologie obsédé par les derniers appareils. Aujourd'hui, je travaille toujours à domicile en tant que spécialiste du logiciel et je suis conscient de qui je suis.</p>
+  <p align="center"> J'ai toujours été un excellent résolveur de problèmes, un passionné de technologie obsédé par les derniers appareils. Aujourd'hui, je travaille toujours à domicile en tant que spécialiste du logiciel et je suis conscient de qui je suis.</p>
 
 
 
