@@ -1,6 +1,11 @@
 <img src="https://github.com/erdemgocen44/erdemgocen44/blob/main/1633014219490.jpg?raw=true">
 
-<h1 align="center">Bonjour 👋 Je m'appelle Erdem GÖÇEN </h1>
+<h1 align="center">Bonjour,👋 Je m'appelle Erdem GÖÇEN </h1>
+
+<h3 align="center">Full Stack Developer/Java-Mobile<h/3>
+  
+
+  <p align="justify"> J'ai toujours été un excellent résolveur de problèmes, un passionné de technologie obsédé par les derniers appareils. Aujourd'hui, je travaille toujours à domicile en tant que spécialiste du logiciel et je suis conscient de qui je suis.</p>
 
 
 
