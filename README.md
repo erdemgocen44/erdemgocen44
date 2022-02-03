@@ -1,5 +1,3 @@
-<img src="https://github.com/erdemgocen44/erdemgocen44/blob/main/1633014219490.jpg?raw=true">
-
 <h1 align="center">Bonjour,👋 Je m'appelle Erdem GÖÇEN</h1>
 <h3 align="center">Un développeur full stack passionné de Genève</h3>
 
