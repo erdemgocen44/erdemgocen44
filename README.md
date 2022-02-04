@@ -1,6 +1,6 @@
 <img src="https://github.com/erdemgocen44/erdemgocen44/blob/main/1633014219490.jpg?raw=true">
 
-<h1 align="center">Bonjour,👋 Je m'appelle Erdem GÖÇEN</h1>
+<h1 align="center">Bonjour, 👋 Je m'appelle Erdem GÖÇEN</h1>
 
 <h3 align="center">Un développeur full stack (Java-Mobile) passionné de Genève</h3>
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemgocen44" alt="erdemgocen44" /></a> </p>
 
-- 🔥 **Je m'entraîne, me développe et me guide pour devenir une meilleure personne**
+- 🔥 Je m'entraîne, me développe et me guide pour devenir une meilleure personne
 
-- 👯 **J'aime gagner, mais cela me donne plus de tranquillité d'esprit pour aider l'équipe à gagner.**
+- 👯 J'aime gagner, mais cela me donne plus de tranquillité d'esprit pour aider l'équipe à gagner.
 
-- ⚜️ **J'apprends tout le temps parce que ce n'est jamais assez pour moi.**
+- ⚜️ J'apprends tout le temps parce que ce n'est jamais assez pour moi.
 
-- ➰ **Je me concentre sur la prise de décisions de haute qualité**
+- ➰ Je me concentre sur la prise de décisions de haute qualité
 
-- 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter**
+- 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter
 
 <p>&nbsp;</p>
 
