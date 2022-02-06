@@ -38,5 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemgocen44&" alt="erdemgocen44" /></p
   
   
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/erdemgocen44/count.svg)
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+</p>
 
