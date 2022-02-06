@@ -16,7 +16,7 @@
 
 - ➰ Je me concentre sur la prise de décisions de haute qualité
 
-- 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter
+- 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter.
 
 <p>&nbsp;</p>
 
