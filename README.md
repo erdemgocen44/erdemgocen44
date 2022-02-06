@@ -35,5 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemgocen44&show_icons=true&locale=en" alt="erdemgocen44" /></p>
 <p>&nbsp;</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemgocen44&" alt="erdemgocen44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdemgocen44&" alt="erdemgocen44" /></p
+  
+  
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
 
