@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erdemgocen44&label=Profile%20views&color=0e75b6&style=flat" alt="erdemgocen44" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemgocen44" alt="erdemgocen44" /></a> </p>
+
 
 - 🔥 Je m'entraîne, me développe et me guide pour devenir une meilleure personne
 
