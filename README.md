@@ -17,9 +17,9 @@
 - ➰ Je me concentre sur la prise de décisions de haute qualité
 
 - 🔭 Interrogez-moi sur **Java, JDBC, Lambda, SQL, Hibernate,MongoDB, JavaScript, HTML, CSS, Bootstrap, Dart et Flutter.
--   💬 Demandez-moi quelque chose à propos de from <a href="https://github.com/erdemgocen44/erdemgocen44/issues" title="Issues">Here</a>
+- 💬 Demandez-moi quelque chose à propos de from <a href="https://github.com/erdemgocen44/erdemgocen44/issues" title="Issues">Here</a>
   <br>
-  📫 Comment me joindre: <a href="mailto: erdemgocen44@gmail.com">erdemgocen44@gmail.com</a>
+- 📫 Comment me joindre: <a href="mailto: erdemgocen44@gmail.com">erdemgocen44@gmail.com</a>
 
 <p>&nbsp;</p>
 
@@ -58,5 +58,4 @@
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=erdemgocen44.erdemgocen44" alt="visitor badge"/>
 </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erdemgocen44.erdemgocen44">
 
